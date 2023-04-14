@@ -1,0 +1,20 @@
+/* Write your CSS here */
+.image-item {
+  width: 300px;
+}
+.name {
+  font-size: 22px;
+  color: #ffffff;
+  font-family: roboto;
+}
+.list-item {
+  padding: 20px;
+}
+.button-item {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+.location {
+  color: #ffffff;
+}

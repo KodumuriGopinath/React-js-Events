@@ -1,0 +1,36 @@
+/* Write your CSS here */
+.yet-to-register-image {
+  width: 80%;
+}
+.yet-to-register-text {
+  font-size: 20px;
+  font-family: roboto;
+}
+.yet-register-button {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  font-size: 16px;
+  background-color: #0967d2;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+}
+.registered-image {
+  width: 250px;
+}
+.registered-text {
+  font-size: 32px;
+  font-family: roboto;
+  font-weight: bold;
+}
+.registration-closed-image {
+  width: 80%;
+}
+.no-registration-text {
+  font-family: roboto;
+  color: #64748b;
+  font-size: 28px;
+  font-weight: bold;
+}

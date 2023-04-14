@@ -1,0 +1,32 @@
+/* Write your CSS here */
+.items-bg-container {
+  background-color: #323f4b;
+  padding: 20px;
+  width: 60%;
+}
+.list-items-container {
+  list-style-type: none;
+  padding-left: 0;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.bg-container {
+  display: flex;
+  flex-direction: row;
+}
+.result-bg-container {
+  width: 50%;
+}
+.result-bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 40px;
+}
+.events-heading {
+  color: #ffffff;
+  padding-left: 20px;
+}
